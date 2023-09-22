@@ -264,12 +264,12 @@
      }
  
      20% {
-        right: 100%;
+        right: calc(100% - 57px);
         bottom: -10px;        
      }
  
      40% {
-        right: 100%;
+        right: calc(100% - 57px);
         bottom: 100%;                
      }
  
